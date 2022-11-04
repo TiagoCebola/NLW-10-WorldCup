@@ -5,9 +5,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -35,12 +35,16 @@ O Calendário do Mundial é um projeto que mostra todos os jogos do mundial de 2
 
 ## Layout
 
-O layout do projeto pode ser visualizado através [DESTE LINK] ()
+O layout do projeto pode ser visualizado através deste link: https://www.figma.com/file/WHiNvAgWlJs9M6M9XtmWkk/Calend%C3%A1rio-de-Jogos-(Community)/duplicate.
+
+É necessário ter conta no Figma para conseguir aceder. Crie a conta aqui: https://figma.com
 
 ## :memo: Licença
 
 Este projeto está sob a licença MIT
 
-___
+---
 
-Feito com <3 by Rocketseat :wave: [Participa nesta comunidade!] (https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave:
+
+Participa nesta comunidade através deste link: https://discord.gg/rocketseat
