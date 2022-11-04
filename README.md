@@ -35,9 +35,7 @@ O Calendário do Mundial é um projeto que mostra todos os jogos do mundial de 2
 
 ## Layout
 
-O layout do projeto pode ser visualizado através deste link: https://www.figma.com/file/WHiNvAgWlJs9M6M9XtmWkk/Calend%C3%A1rio-de-Jogos-(Community)/duplicate.
-
-É necessário ter conta no Figma para conseguir aceder. Crie a conta aqui: https://figma.com
+O layout do projeto pode ser visualizado através [DESTE LINK](<https://www.figma.com/file/WHiNvAgWlJs9M6M9XtmWkk/Calend%C3%A1rio-de-Jogos-(Community)/duplicate>). É necessário ter conta no [Figma](https://figma.com) para conseguir aceder.
 
 ## :memo: Licença
 
@@ -45,6 +43,4 @@ Este projeto está sob a licença MIT
 
 ---
 
-Feito com ♥ by Rocketseat :wave:
-
-Participa nesta comunidade através deste link: https://discord.gg/rocketseat
+Feito com ♥ by Rocketseat :wave: [Participa nesta comunidade!](https://discord.gg/rocketseat)
