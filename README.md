@@ -1,14 +1,14 @@
-<h1 align="center"> NLW #10 Copa </h1>
+<h1 align="center"> NLW #10 World Cup </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+This project was developed during an exclusive and free event, promoted by Rocketseat to teach WEB technologies.
 </p>
 
 <p align="center">
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -18,29 +18,29 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="worl cup calendar" src=".github/preview.jpg" width="100%">
 </p>
 
-## Tecnologias
+## Technologies
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 
-## Projeto
+## Project
 
-O Calendário do Mundial é um projeto que mostra todos os jogos do mundial de 2022
+This project is a calendar, where the objetive is to show all the games of the 2022 World Cup
 
 ## Layout
 
-O layout do projeto pode ser visualizado através [DESTE LINK](<https://www.figma.com/file/WHiNvAgWlJs9M6M9XtmWkk/Calend%C3%A1rio-de-Jogos-(Community)/duplicate>). É necessário ter conta no [Figma](https://figma.com) para conseguir aceder.
+The project layout can be viewed through [THIS LINK](<https://www.figma.com/file/WHiNvAgWlJs9M6M9XtmWkk/Calend%C3%A1rio-de-Jogos-(Community)/duplicate>). You must have an account on [Figma](https://figma.com) to access.
 
-## :memo: Licença
+## :memo: License
 
-Este projeto está sob a licença MIT
+This project is under the MIT License
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participa nesta comunidade!](https://discord.gg/rocketseat)
+Made in collaboration with Rocketseat :wave: [Join this community!](https://discord.gg/rocketseat)
