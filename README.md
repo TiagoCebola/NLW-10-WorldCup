@@ -1,7 +1,7 @@
 <h1 align="center"> NLW #10 World Cup </h1>
 
 <p align="center">
-This project was developed during an exclusive and free event, promoted by Rocketseat to teach WEB technologies.
+This project was developed during an exclusive and free event, promoted by Rocketseat to teach WEB Technologies.
 </p>
 
 <p align="center">
@@ -25,13 +25,16 @@ This project was developed during an exclusive and free event, promoted by Rocke
 
 This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
-- Git e Github
+- Git
+- Github
 
 ## Project
 
-This project is a calendar, where the objetive is to show all the games of the 2022 World Cup
+**World Cup Calendar** is a web application that allows users to keep track of the upcoming matches and results of the 2022 FIFA World Cup in Qatar. The application uses a simple and intuitive interface that displays the dates, times, and teams of each game.
+The application aims to provide a convenient and comprehensive way for soccer fans to follow the biggest sporting event in the world.
 
 ## Layout
 
