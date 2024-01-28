@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 ## Project
 
 **World Cup Calendar** is a web application that allows users to keep track of the upcoming matches and results of the 2022 FIFA World Cup in Qatar. The application uses a simple and intuitive interface that displays the dates, times, and teams of each game.
-The application aims to provide a convenient and comprehensive way for soccer fans to follow the biggest sporting event in the world.
+The application aims to provide a convenient and comprehensive way for soccer fans to follow the biggest sport event in the world.
 
 ## Layout
 
